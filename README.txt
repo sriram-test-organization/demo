@@ -6,10 +6,9 @@ Adding another line in line 5
 
 Adding another line in line 7
 
-<<<<<<< HEAD
 In main
-=======
+
 Create a new branch and this has to be in that branch
 
 Changes made in update branch
->>>>>>> updates
+
