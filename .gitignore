@@ -1,2 +1,6 @@
 *.log
 *.cs
+*_REMOTE_*
+*_BASE_*
+*_BACKUP_*
+*_LOCAL_*
