@@ -1,3 +1,6 @@
 First Line in myfile1.txt
 
 Second line in myfile1.txt
+
+Line added after stash applied
+
