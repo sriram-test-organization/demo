@@ -4,3 +4,12 @@ Second line in myfile1.txt
 
 Line added after stash applied
 
+===========================================================
+Line before first git reset --soft
+============================================================
+Line before second git reset --soft
+============================================================
+Line before third git reset --soft
+============================================================
+Line AFTER FIRST git reset --soft
+============================================================
