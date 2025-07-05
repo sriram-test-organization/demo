@@ -13,3 +13,5 @@ Line before third git reset --soft
 ============================================================
 Line AFTER FIRST git reset --soft
 ============================================================
+
+-- After Transferring to Organization
